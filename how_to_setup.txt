@@ -1,0 +1,13 @@
+1. template.py
+2. requirements.txt
+3. setup.py
+4. venv python=x.x.x
+5. README.md
+6. main.__init__.py
+7. utils.common.py
+8. config.yaml
+9. config_entity.py
+10. configuration.py in src.config folder
+11. componenents.data_ingestion.py
+12. pipeline.stage_01.py
+13. main.py
