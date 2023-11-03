@@ -7,7 +7,8 @@
 7. utils.common.py
 8. config.yaml
 9. config_entity.py
-10. configuration.py in src.config folder
-11. componenents.data_ingestion.py
-12. pipeline.stage_01.py
-13. main.py
+10. constants.__init__.py
+11. configuration.py in src.config folder
+12. componenents.data_ingestion.py
+13. pipeline.stage_01.py
+14. main.py
